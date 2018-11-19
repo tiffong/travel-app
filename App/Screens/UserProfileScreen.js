@@ -59,9 +59,12 @@ export default class UserProfileScreen extends React.Component {
     const { content } = this.state;
 
     return (
-      <View style={styles.container}>
+      <View style={styles.profile}>
 
-        {this.getFeedContent()}
+        <Text> Tiffany Ong </Text>
+        <Image
+        style={{width: 200, height:250}}
+        source={require('../Images/tiffpic.jpg')} />
 
       </View>
     );
@@ -101,6 +104,12 @@ export default class UserProfileScreen extends React.Component {
 }
 
 const styles = StyleSheet.create({
+  profile: {
+      padding: Metrics.navBarHeight,
+      justifyContent: 'center',
+      alignItems: 'center'
+
+  },
   container: {
     flex: 1,
     justifyContent: 'center',

@@ -7,6 +7,8 @@ import HomeScreen from '../Screens/HomeScreen'
 import BookmarkScreen from '../Screens/BookmarkScreen'
 import BookmarkViewerScreen from '../Screens/BookmarkViewerScreen'
 import UserProfileScreen from '../Screens/UserProfileScreen'
+import Profile from '../Screens/Profile4/Profile'
+
 
 // Manifest of possible screens
 const TabNav = createBottomTabNavigator({
