@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 32042,
-  "expoServerNgrokUrl": "https://dj-ces.tiffanyo.travel-app.exp.direct",
-  "packagerNgrokUrl": "https://packager.dj-ces.tiffanyo.travel-app.exp.direct",
-  "ngrokPid": 32070
+  "packagerPid": 23027,
+  "expoServerNgrokUrl": "https://dj-ces.anonymous.travel-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.dj-ces.anonymous.travel-app.exp.direct",
+  "ngrokPid": 23042
 }
